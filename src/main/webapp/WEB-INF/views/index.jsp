@@ -1,10 +1,9 @@
 <%@ page isELIgnored="false" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
-<hr>
     <hr>
-        <h1>My Git Repository Source Code.</h1>
-        <h1>Sample Source Code on Tomcat.</h1>
+        <h1>Build Now. My Git Repository Source Code.</h1>
+        <h1>Hello World.</h1>
     <hr>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
